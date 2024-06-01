@@ -6,13 +6,13 @@ body {
     background-color: white;
 
 }
-h1, h2 {
+/* h1, h2 {
     color: white;
 }
 button {
     color: white;
     background-color: limegreen;
-}
+} */
 .mainpage {
     display: grid;
     height: 100vh;
@@ -30,6 +30,8 @@ button {
     height: 80vh;
     border-radius: 5%;
     background-color: #7BA238;
+    color: white;
+
 }
 .box1 img {
     width: 400px;
@@ -68,6 +70,8 @@ button {
     margin-right: 10px;
     height: 30px;
     width: 30px;
+    color: white;
+    background-color: limegreen;
 }
 .box2 {
     display: flex;
@@ -75,6 +79,7 @@ button {
     justify-content: center;
     background-color: white;
     height: 80vh;
+    color: black;
 }
 .total {
     display: flex;

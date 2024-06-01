@@ -36,7 +36,7 @@ btnSuma.addEventListener("click", () => {
 })
 
 btnResta.addEventListener("click", () => {
-    if (cant > 1) {
+    if (cant > 0) {
         cant = cant - 1; 
         tot = precio * cant;
         cantidad.innerHTML = cant;

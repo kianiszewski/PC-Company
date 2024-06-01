@@ -6,6 +6,13 @@ body {
     background-color: white;
 
 }
+h1, h2 {
+    color: white;
+}
+button {
+    color: white;
+    background-color: limegreen;
+}
 .mainpage {
     display: grid;
     height: 100vh;
